@@ -75,12 +75,11 @@ A notification app where the user will note down a habit they want to be notifie
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![Login/Create Account Screens](https://github.com/jeffreyzhangsd/Persistence/assets/109628105/3e9f60a0-2b3d-4072-ade0-9f71f617e444)
 
-### [BONUS] Digital Wireframes & Mockups
+![Home and Account Screens](https://github.com/jeffreyzhangsd/Persistence/assets/109628105/392af6fb-1b86-4d05-ad1e-02883ed22a46)
 
-### [BONUS] Interactive Prototype
+![Add/Edit Habit Screens](https://github.com/jeffreyzhangsd/Persistence/assets/109628105/63ff5651-59e1-4014-b7b5-bdd2d4e97654)
 
 ## Schema 
 
