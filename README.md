@@ -89,8 +89,13 @@ A notification app where the user will note down a habit they want to be notifie
 
 [Add table of models]
 
-### Networking
+### Sprint Planning
 
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+    Sprint 1: Set up project (minimal out of town work)
+    Sprint 2: Design and implement the Login/Account Creation screens.
+    Sprint 3: Build the Home, Add and Edit habit screens.
+    Sprint 4: Full functionality of app.
+
+### Week 8 Progress
+
+- Initialize Project
