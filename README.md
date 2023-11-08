@@ -28,23 +28,19 @@ A notification app where the user will note down a habit they want to be notifie
 
 **Required Must-have Stories**
 
-* User can log into account
-* User can save a habit to their account/device
+* User can save a habit to their device
 * User can see their saved habits
 * Ability to send notification to user
 * Ability to set timer for notifications
-* Ability to set a habit to be finished for the current time window
 
 **Optional Nice-to-have Stories**
 
 * User can set different times for different habits
-* User can save different
+* Ability to set a habit to be finished for the current time window
 * User can log onto account across devices
 
 ### 2. Screen Archetypes
 
-- [ ] Login screen
-* Log into account
 - [ ] Home screen (current habits)
 * View saved habits
 - [ ] New habit screen
@@ -53,6 +49,10 @@ A notification app where the user will note down a habit they want to be notifie
 * Edit saved habits if needed
 - [ ] Account screen
 * Manage account details
+
+* Optional
+- [ ] Login screen
+* Log into account
 
 ### 3. Navigation
 
@@ -63,9 +63,6 @@ A notification app where the user will note down a habit they want to be notifie
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Login
-* Home
-
 - [ ] Home
 * Add habit
 * Edit habit
@@ -73,13 +70,19 @@ A notification app where the user will note down a habit they want to be notifie
 - [ ] Add/Edit habit
 * Home
 
+* Optional
+- [ ] Login
+* Home
+
 ## Wireframes
 
-![Login/Create Account Screens](https://github.com/jeffreyzhangsd/Persistence/assets/109628105/3e9f60a0-2b3d-4072-ade0-9f71f617e444)
 
 ![Home and Account Screens](https://github.com/jeffreyzhangsd/Persistence/assets/109628105/392af6fb-1b86-4d05-ad1e-02883ed22a46)
 
 ![Add/Edit Habit Screens](https://github.com/jeffreyzhangsd/Persistence/assets/109628105/63ff5651-59e1-4014-b7b5-bdd2d4e97654)
+
+* Optional
+![Login/Create Account Screens](https://github.com/jeffreyzhangsd/Persistence/assets/109628105/3e9f60a0-2b3d-4072-ade0-9f71f617e444)
 
 ## Schema 
 
