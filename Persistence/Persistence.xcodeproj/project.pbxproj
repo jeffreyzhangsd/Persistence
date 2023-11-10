@@ -7,15 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F881710E2AFBD5F9007169A5 /* HabitComposeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F881710D2AFBD5F9007169A5 /* HabitComposeViewController.swift */; };
 		F8B7F09C2AF94A8700784535 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B7F09B2AF94A8700784535 /* AppDelegate.swift */; };
 		F8B7F09E2AF94A8700784535 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B7F09D2AF94A8700784535 /* SceneDelegate.swift */; };
 		F8B7F0A02AF94A8700784535 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B7F09F2AF94A8700784535 /* ViewController.swift */; };
 		F8B7F0A32AF94A8700784535 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8B7F0A12AF94A8700784535 /* Main.storyboard */; };
 		F8B7F0A52AF94A8E00784535 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8B7F0A42AF94A8E00784535 /* Assets.xcassets */; };
 		F8B7F0A82AF94A8E00784535 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8B7F0A62AF94A8E00784535 /* LaunchScreen.storyboard */; };
+		F8B7F0B02AFB20E500784535 /* Habit.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B7F0AF2AFB20E500784535 /* Habit.swift */; };
+		F8B7F0B22AFB2C6100784535 /* HabitCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B7F0B12AFB2C6100784535 /* HabitCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F881710D2AFBD5F9007169A5 /* HabitComposeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HabitComposeViewController.swift; sourceTree = "<group>"; };
 		F8B7F0982AF94A8700784535 /* Persistence.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Persistence.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8B7F09B2AF94A8700784535 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F8B7F09D2AF94A8700784535 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +28,8 @@
 		F8B7F0A42AF94A8E00784535 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8B7F0A72AF94A8E00784535 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F8B7F0A92AF94A8E00784535 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F8B7F0AF2AFB20E500784535 /* Habit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Habit.swift; sourceTree = "<group>"; };
+		F8B7F0B12AFB2C6100784535 /* HabitCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HabitCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				F8B7F09B2AF94A8700784535 /* AppDelegate.swift */,
 				F8B7F09D2AF94A8700784535 /* SceneDelegate.swift */,
 				F8B7F09F2AF94A8700784535 /* ViewController.swift */,
+				F881710D2AFBD5F9007169A5 /* HabitComposeViewController.swift */,
+				F8B7F0B12AFB2C6100784535 /* HabitCell.swift */,
+				F8B7F0AF2AFB20E500784535 /* Habit.swift */,
 				F8B7F0A12AF94A8700784535 /* Main.storyboard */,
 				F8B7F0A42AF94A8E00784535 /* Assets.xcassets */,
 				F8B7F0A62AF94A8E00784535 /* LaunchScreen.storyboard */,
@@ -140,6 +149,9 @@
 			files = (
 				F8B7F0A02AF94A8700784535 /* ViewController.swift in Sources */,
 				F8B7F09C2AF94A8700784535 /* AppDelegate.swift in Sources */,
+				F881710E2AFBD5F9007169A5 /* HabitComposeViewController.swift in Sources */,
+				F8B7F0B02AFB20E500784535 /* Habit.swift in Sources */,
+				F8B7F0B22AFB2C6100784535 /* HabitCell.swift in Sources */,
 				F8B7F09E2AF94A8700784535 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
