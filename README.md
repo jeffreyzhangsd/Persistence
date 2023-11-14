@@ -28,31 +28,23 @@ A notification app where the user will note down a habit they want to be notifie
 
 **Required Must-have Stories**
 
-* User can save a habit to their device
-* User can see their saved habits
-* Ability to send notification to user
-* Ability to set timer for notifications
+* [x] User can save a habit to their device
+* [x] User can see their saved habits
+* [x] Ability to send notification to user
+* [x] Ability to set timer for notifications
 
 **Optional Nice-to-have Stories**
 
 * User can set different times for different habits
-* Ability to set a habit to be finished for the current time window
-* User can log onto account across devices
 
 ### 2. Screen Archetypes
 
-- [ ] Home screen (current habits)
+- [x] Home screen (current habits)
 * View saved habits
-- [ ] New habit screen
+- [x] New habit screen
 * Add habits to account
-- [ ] Edit habit screen
+- [x] Edit habit screen
 * Edit saved habits if needed
-- [ ] Account screen
-* Manage account details
-
-* Optional
-- [ ] Login screen
-* Log into account
 
 ### 3. Navigation
 
@@ -63,15 +55,15 @@ A notification app where the user will note down a habit they want to be notifie
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Home
+- [x] Home
 * Add habit
 * Edit habit
 
-- [ ] Add/Edit habit
+- [x] Add/Edit habit
 * Home
 
 * Optional
-- [ ] Login
+- [x] Login
 * Home
 
 ## Wireframes
@@ -102,3 +94,13 @@ A notification app where the user will note down a habit they want to be notifie
 ### Week 8 Progress
 
 - Initialize Project
+
+### Week 9 Progress
+
+- Set up saving Habits to local storage
+- Set up navigation for editing/creating habits
+- Set up table view and individual cells
+- Set up deleting habits
+- Set up notifications
+- Set up unique identifiers so notifications do not multiply
+- Set up way to delete scheduled notifications
