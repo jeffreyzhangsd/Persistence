@@ -32,8 +32,6 @@ class HabitComposeViewController: UIViewController {
             
             self.title = "Edit Habit"
             
-            
-            
         }
         // Do any additional setup after loading the view.
     }

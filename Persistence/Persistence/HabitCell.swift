@@ -37,7 +37,7 @@ class HabitCell: UITableViewCell {
     
     private func update(with habit: Habit) {
         nameLabel.text = habit.name
-        intervalLabel.text = String(habit.timeInterval)
+        intervalLabel.text = String(habit.timeInterval) + " minutes"
         
         // habit.note is an optional
         
@@ -46,7 +46,7 @@ class HabitCell: UITableViewCell {
         
         noteLabel.isHidden = habit.note == "" || habit.note == nil
         
-        notificationSwitch.isSelected = habit.hasNotifications
+        notificationSwitch.isOn = habit.hasNotifications
     }
     
     override func setSelected(_ selected: Bool, animated: Bool) { }
