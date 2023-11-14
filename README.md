@@ -104,3 +104,9 @@ A notification app where the user will note down a habit they want to be notifie
 - Set up notifications
 - Set up unique identifiers so notifications do not multiply
 - Set up way to delete scheduled notifications
+
+### Week 9 Progress Gif
+
+https://github.com/jeffreyzhangsd/Persistence/assets/109628105/488ddd21-b760-4cc2-a075-980a69f8acd7
+
+
