@@ -107,6 +107,4 @@ A notification app where the user will note down a habit they want to be notifie
 
 ### App Demo
 
-
-
-
+https://github.com/jeffreyzhangsd/Persistence/assets/109628105/6b2aa6cc-571d-4ebc-88c6-dd0e999a554b
