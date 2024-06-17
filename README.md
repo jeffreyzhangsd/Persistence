@@ -11,7 +11,7 @@
 
 ### Description
 
-A notification app where the user will note down a habit they want to be notified about such as drinking water, stretching or fixing posture. They will set their own schedule for that habit.
+A notification app where the user will note down a habit they want to be notified about such as drinking water, stretching or fixing posture. They will set their own schedule for that habit, and the notifications will be repeated until stopped.
 
 ### App Evaluation
 
@@ -68,17 +68,12 @@ A notification app where the user will note down a habit they want to be notifie
 
 ## Wireframes
 
-
 ![Home and Account Screens](https://github.com/jeffreyzhangsd/Persistence/assets/109628105/392af6fb-1b86-4d05-ad1e-02883ed22a46)
 
 ![Add/Edit Habit Screens](https://github.com/jeffreyzhangsd/Persistence/assets/109628105/63ff5651-59e1-4014-b7b5-bdd2d4e97654)
 
 * Optional
 ![Login/Create Account Screens](https://github.com/jeffreyzhangsd/Persistence/assets/109628105/3e9f60a0-2b3d-4072-ade0-9f71f617e444)
-
-## Schema 
-
-[This section will be completed in Unit 9]
 
 ### Models
 
